@@ -1,3 +1,2 @@
 # LoginPage
-Login Page
-<a href="https://jjonasandrade.github.io/LoginPage/">Login Page</a>
+<a href="https://jjonasandrade.github.io/LoginPage/">LOGIN PAGE</a>
